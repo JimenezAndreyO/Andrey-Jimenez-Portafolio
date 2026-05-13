@@ -30,7 +30,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="/andrey-cv-espanol.pdf"
+          href="https://drive.google.com/file/d/1LoCQu1E0Y-zCX-rxzVfIJ3qNKCoEz8Eu/view?usp=drive_link"
           download
           className="px-4 py-2 bg-white text-black rounded hover:bg-gray-200 transition"
         >
