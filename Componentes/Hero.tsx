@@ -14,13 +14,6 @@ export default function Hero() {
         y plataformas dinámicas con tecnologías modernas.
       </p>
 
-      {/* SOBRE MI */}
-      <p className="text-gray-400 max-w-2xl mt-6 leading-7">
-        Experiencia en desarrollo backend, bases de datos,
-        autenticación, sistemas CRUD y diseño responsive.
-        Interesado en desarrollo Full Stack y QA Automation
-        con Cypress.
-      </p>
 
       <div className="flex gap-3 mt-8 flex-wrap justify-center">
         <a
@@ -40,13 +33,29 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/1LoCQu1E0Y-zCX-rxzVfIJ3qNKCoEz8Eu/view"
+          href="https://cuccr-my.sharepoint.com/:b:/g/personal/andrey_jimenez_ortiz_cuc_cr/IQDhg7GozGcLQ5WWwKNVMNtSAcg69O9UVoZK997AzsfYbZk?e=BmfPkL"
           target="_blank"
           className="px-4 py-2 bg-yellow-400 text-black rounded hover:bg-yellow-300 transition"
         >
           Descargar CV
         </a>
+
+        
       </div>
+
+        
+          
+       <h2 className="text-3xl font-bold text-white mt-20 mb-4">
+          Sobre Mí
+        </h2>
+
+       
+      <p className="text-gray-400 max-w-2xl mt-6 leading-7">
+        Experiencia en desarrollo backend, bases de datos,
+        autenticación, sistemas CRUD y diseño responsive.
+        Interesado en desarrollo Full Stack y QA Automation
+        con Cypress.
+      </p>
 
     </section>
   );
