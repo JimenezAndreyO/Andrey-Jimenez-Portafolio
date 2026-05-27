@@ -5,6 +5,14 @@ import { useState } from "react";
 
 const projects = [
 
+
+     {
+    title: "Catalogo de consolas y video juegos",
+    description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de un catálogo de videojuegos, incorporando autenticación, CRUD de productos, manejo de imágenes y diseño responsive..",
+    image: "/PaginaIndex.png",
+    Pagina: "https://catalogo-de-video-juegos.onrender.com/",
+    tech: ["NODE.JS", "MYSQL", "WEB", "PUG", "API"],
+    },
    {
     title: "Bienes Raices compra y venta",
     description: "Proyecto personal para compra y venta de bienes raices.",
