@@ -1,18 +1,28 @@
 export default function Hero() {
   return (
     <section className="flex flex-col items-center justify-center text-center py-32 px-4">
-      
+
       <h1 className="text-5xl font-bold mb-4">
         <span className="text-yellow-300">
-          Software Developer
+          Desarrollador Full Stack
         </span>
       </h1>
 
-      <p className="text-gray-400 max-w-xl">
-        Desarrollador Full Stack enfocado en crear experiencias web modernas en diferentes tecnologías.
+      <p className="text-gray-300 text-lg max-w-2xl">
+        Especializado en Node.js, MySQL, Web desarrollando
+        aplicaciones web administrativas, empresariales
+        y plataformas dinámicas con tecnologías modernas.
       </p>
 
-      <div className="flex gap-3 mt-6">
+      {/* SOBRE MI */}
+      <p className="text-gray-400 max-w-2xl mt-6 leading-7">
+        Experiencia en desarrollo backend, bases de datos,
+        autenticación, sistemas CRUD y diseño responsive.
+        Interesado en desarrollo Full Stack y QA Automation
+        con Cypress.
+      </p>
+
+      <div className="flex gap-3 mt-8 flex-wrap justify-center">
         <a
           href="https://github.com/JimenezAndreyO"
           target="_blank"
@@ -30,9 +40,9 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/1LoCQu1E0Y-zCX-rxzVfIJ3qNKCoEz8Eu/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1LoCQu1E0Y-zCX-rxzVfIJ3qNKCoEz8Eu/view"
           target="_blank"
-          className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+          className="px-4 py-2 bg-yellow-400 text-black rounded hover:bg-yellow-300 transition"
         >
           Descargar CV
         </a>
