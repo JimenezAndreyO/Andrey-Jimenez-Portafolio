@@ -7,14 +7,14 @@ const projects = [
 
 
      {
-    title: "Catalogo de consolas y video juegos",
+    title: "Sistema Web de Catálogo de Videojuegos",
     description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de un catálogo de videojuegos, incorporando autenticación, CRUD de productos, manejo de imágenes y diseño responsive..",
     image: "/PaginaIndex.png",
     github: "https://catalogo-de-video-juegos.onrender.com/",
     tech: ["NODE.JS", "MYSQL", "WEB", "PUG", "API"],
     },
    {
-    title: "Bienes Raices compra y venta",
+    title: "Plataforma inmobiliaria para la administración de propiedades, permitiendo gestionar inmuebles, imágenes y consultas mediante una interfaz web responsive.",
     description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de propiedades inmobiliarias, incluyendo CRUD de inmuebles, autenticación de usuarios, manejo de imágenes y diseño responsive..",
     image: "/iniciovendedor.png",
     github: "https://github.com/JimenezAndreyO/BienesRaices.git",
@@ -28,14 +28,14 @@ const projects = [
     tech: ["NODE.JS", "PUG", "MYSQL", "AJAX","API","PWA","WEB"],
   },
   {
-    title: "Seguimiento de trabajo",
+    title: "Sistema Interno de Gestión Municipal",
     description: "Aplicación web orientada a procesos internos municipales, diseñada para la gestión de auditorías y almacenamiento de informes en PDF, facilitando el acceso, organización y administración documental.",
     image: "/inicio-seguimiento.png",
     github: "https://github.com/JimenezAndreyO/Seguimiento-de-trabajo.git",
     tech: ["C#", "SQL", "PDF"],
   },
   {
-    title: "Manejo de presupuestos web",
+    title: "Sistema de Gestión Presupuestaria",
     description: "Sistema de gestión presupuestaria orientado a procesos internos empresariales, enfocado en el control y administración eficiente de presupuestos.",
     image: "/Iniciooo.png",
     github: "https://github.com/JimenezAndreyO/Manejo-de-presupuesto-web.git",

@@ -5,7 +5,7 @@ export default function Navbar() {
 
       <div className="space-x-4">
         <a href="#projects" className="hover:text-gray-400">
-          Proyectos
+          Proyectos Destacados
         </a>
        
       </div>
