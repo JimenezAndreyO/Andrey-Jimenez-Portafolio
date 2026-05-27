@@ -15,7 +15,7 @@ const projects = [
     },
    {
     title: "Bienes Raices compra y venta",
-    description: "Proyecto personal para compra y venta de bienes raices.",
+    description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de propiedades inmobiliarias, incluyendo CRUD de inmuebles, autenticación de usuarios, manejo de imágenes y diseño responsive..",
     image: "/iniciovendedor.png",
     github: "https://github.com/JimenezAndreyO/BienesRaices.git",
     tech: ["NODE.JS", "MYSQL", "WEB", "PUG"],
@@ -29,14 +29,14 @@ const projects = [
   },
   {
     title: "Seguimiento de trabajo",
-    description: "Trabajo echo para manejos internos dentro de la municipalidad, donde tiene auditoria y se pueden subir informes y PDF",
+    description: "Aplicación web orientada a procesos internos municipales, diseñada para la gestión de auditorías y almacenamiento de informes en PDF, facilitando el acceso, organización y administración documental.",
     image: "/inicio-seguimiento.png",
     github: "https://github.com/JimenezAndreyO/Seguimiento-de-trabajo.git",
-    tech: ["C#", "SQL"],
+    tech: ["C#", "SQL", "PDF"],
   },
   {
     title: "Manejo de presupuestos web",
-    description: "Programa para manejar presupuestos dentro de una empresa",
+    description: "Sistema de gestión presupuestaria orientado a procesos internos empresariales, enfocado en el control y administración eficiente de presupuestos.",
     image: "/Iniciooo.png",
     github: "https://github.com/JimenezAndreyO/Manejo-de-presupuesto-web.git",
     tech: ["C#", "SQL", "WEB"],
