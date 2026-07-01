@@ -11,13 +11,15 @@ const projects = [
     description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de un catálogo de videojuegos, incorporando autenticación, CRUD de productos, manejo de imágenes y diseño responsive..",
     image: "/PaginaIndex.png",
     github: "https://catalogo-de-video-juegos.onrender.com/",
+    demo: "https://youtu.be/spo1Ghyvjqs",
     tech: ["NODE.JS", "MYSQL", "WEB", "PUG", "API"],
+    
     },
    {
     title: "Plataforma inmobiliaria para la administración de propiedades, permitiendo gestionar inmuebles, imágenes y consultas mediante una interfaz web responsive.",
     description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de propiedades inmobiliarias, incluyendo CRUD de inmuebles, autenticación de usuarios, manejo de imágenes y diseño responsive..",
     image: "/iniciovendedor.png",
-    github: "https://github.com/JimenezAndreyO/BienesRaices.git",
+    demo: "https://youtu.be/shXPTn_wddo",
     tech: ["NODE.JS", "MYSQL", "WEB", "PUG"],
   },
   {
@@ -101,6 +103,17 @@ export default function Projects() {
                 >
                   Código
                 </a>
+
+              {p.demo && (
+                <a
+                  href={p.demo}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700"
+                >
+                  Demo
+                </a>
+            )}
               </div>
             </div>
           </div>
