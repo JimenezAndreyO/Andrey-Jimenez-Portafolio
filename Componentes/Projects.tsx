@@ -43,7 +43,16 @@ const projects = [
     github: "https://github.com/JimenezAndreyO/Manejo-de-presupuesto-web.git",
     tech: ["C#", "SQL", "WEB"],
   },
+  {
+    title: "Gestion de Reservaciones, Habitaciones y Personas en Hoteles",
+    description: "Sistema de gestión de Reservaciones, Habitaciones y Personas, para administrar y manejar ingresos, reservacion y total de ganancias segunda cada reservacion",
+    image: "/ImagenHoteles.png",
+    github: "https://github.com/JimenezAndreyO/Manejo-de-Hoteles-Frond.git",
+    githubAPI: "https://github.com/JimenezAndreyO/API-Hoteles.git",
+    demo: "https://unedcr-my.sharepoint.com/:v:/g/personal/andrey_jimenez_uned_cr/IQDYO7wJV6mUQ5bV0O8wopMZAV1H2yytu1zNqniUZgf1apQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=G6dAUa",
+    tech: ["C#", "SQL", "WEB", "API", "MVC", "RESTFULL", "Entity Framework"],
 
+  },
   
 ];
 
