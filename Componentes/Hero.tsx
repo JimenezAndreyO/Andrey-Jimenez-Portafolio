@@ -33,7 +33,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://cuccr-my.sharepoint.com/:b:/g/personal/andrey_jimenez_ortiz_cuc_cr/IQAbv2u-G8-MSpPP6BRwL9AcAVsIKSz4RwPSjWYNO1cfjys?e=hQqHlK"
+          href="https://cuccr-my.sharepoint.com/:b:/g/personal/ajimenezo_cuc_ac_cr/IQBL5J7Ar_DqR6BEzG4iqivmAdMboB0O3ZpO6mPiRwr8feQ?e=wsNegF"
           target="_blank"
           className="px-4 py-2 bg-yellow-400 text-black rounded hover:bg-yellow-300 transition"
         >
