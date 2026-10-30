@@ -61,6 +61,15 @@ const projects = [
     tech: ["C#", "SQL", "WEB", "API", "MVC", "RESTFULL", "Entity Framework"],
 
   },
+
+    {
+    title: "Sistema de Reservas",
+    description: "Sistema de gestión de Reservaciones para manejo y uso de lab o manejo de semena)",
+    image: "/ImagenReser.png",
+    github: "https://github.com/JimenezAndreyO/Lab_DAE.git",
+    tech: ["NODE.JS", "PUG", "MYSQL", "AJAX","API","PWA","WEB"]
+
+  },
   
 ];
 
