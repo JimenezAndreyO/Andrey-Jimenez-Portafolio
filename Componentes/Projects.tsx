@@ -16,7 +16,7 @@ const projects = [
     
     },
    {
-    title: "Plataforma inmobiliaria para la administración de propiedades, permitiendo gestionar inmuebles, imágenes y consultas mediante una interfaz web responsive.",
+    title: "Plataforma inmobiliaria para la administración de propiedades.",
     description: "Aplicación web full stack desarrollada con Node.js, Express y MySQL para la gestión de propiedades inmobiliarias, incluyendo CRUD de inmuebles, autenticación de usuarios, manejo de imágenes y diseño responsive..",
     image: "/iniciovendedor.png",
     demo: "https://youtu.be/shXPTn_wddo",
